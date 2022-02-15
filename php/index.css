@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    font-family: "Montserrat", sans-serif;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .header{
+      background-color: #0c0d1d;
+      color:White;
+  }
